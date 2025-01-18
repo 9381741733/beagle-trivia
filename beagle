@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beagle Trivia</title>
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Beagle_Favicon.png/32px-Beagle_Favicon.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Top Section -->
+    <section id="intro">
+        <div>
+            <h1>Beagle</h1>
+            <p><b>Beagles</b> are a breed of small to medium-sized dogs. Known for their <i>friendly nature</i> and keen sense of smell, they are popular among dog lovers worldwide. <a href="https://en.wikipedia.org/wiki/Beagle" target="_blank">Read more</a></p>
+        </div>
+    </section>
+
+    <!-- Image Section -->
+    <section id="image">
+        <div>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg" alt="Beagle Dog">
+            <p><a href="https://www.google.com/search?q=beagle&rlz=1C5CHFA_enUS944US945&sxsrf=ALiCzsYi_xLzuX5-mgRt-U2UMiiEwhaCTA:1672839794160&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8ntha78AhVnDbcAHX7UCYYQ_AUoAXoECAEQAw&biw=1629&bih=894&dpr=2.2" target="_blank">More Images</a></p>
+        </div>
+    </section>
+
+    <!-- Trivia Section -->
+    <section id="trivia">
+        <div>
+            <h2>Trivia</h2>
+            <ol>
+                <li>Beagles have one of the best senses of smell among dog breeds.</li>
+                <li>They are often used in <b>search-and-rescue missions</b> and detection jobs.</li>
+                <li>Beagles are <i>friendly, curious, and merry</i>, making them great family pets.</li>
+            </ol>
+        </div>
+    </section>
+</body>
+</html>
